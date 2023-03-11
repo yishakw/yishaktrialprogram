@@ -13,5 +13,6 @@ export function printName(Family) {
 }
 
 export function printNum(Family) {
+  const age = 12;
   console.log(Family.numChild);
 }
